@@ -1,0 +1,11 @@
+# REUSE Software Bill of Materials
+# https://reuse.software/
+version = 1
+SPDX-PackageName = "CR-10-"
+SPDX-PackageSupplier = "Byron Williams"
+SPDX-PackageDownloadLocation = "https://github.com/williaby/CR-10-"
+
+[[annotations]]
+path = ["**"]
+SPDX-License-Identifier = "MIT"
+SPDX-FileCopyrightText = "2025 Byron Williams"
